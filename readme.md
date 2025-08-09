@@ -1,6 +1,6 @@
 # readme for unigis-appdev
 
-![python image from unsplash.com](images\python.jpg)
+![python image from unsplash.com](images/python.jpg)
 
 source of the image: [unsplash.com](https://unsplash.com/de/fotos/ein-neonkreis-mit-einer-schlange-darauf-qHx3w6Gwz9k)
 
